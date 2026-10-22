@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Bulkhead and Seawall Cost Register (US, 2026)"
+type: dataset
+authors:
+  - name: "Bulkhead Guide"
+    website: "https://www.bulkheadguide.com"
+version: "2026-10-21"
+date-released: "2026-10-21"
+license: CC-BY-4.0
+url: "https://www.bulkheadguide.com"
+keywords: ["bulkhead cost", "seawall cost", "vinyl bulkhead", "shoreline protection", "price register"]
+doi: "10.5281/zenodo.23550684"
